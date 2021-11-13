@@ -1,0 +1,40 @@
+C:\Users\LENOVO\source\repos\Final_Project\bin\Debug\Final_Project.exe.config
+C:\Users\LENOVO\source\repos\Final_Project\bin\Debug\Final_Project.exe
+C:\Users\LENOVO\source\repos\Final_Project\bin\Debug\Final_Project.pdb
+C:\Users\LENOVO\source\repos\Final_Project\obj\Debug\Final_Project.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Final_Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Final_Project\obj\Debug\Final_Project.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Final_Project\obj\Debug\Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Final_Project\obj\Debug\Final_Project.exe
+C:\Users\LENOVO\source\repos\Final_Project\obj\Debug\Final_Project.pdb
+C:\Users\LENOVO\source\repos\Final_Project\obj\Debug\Final_Project.Presentation_Layer.Admin.AdminAddWorkerForm.resources
+C:\Users\LENOVO\source\repos\Final_Project\obj\Debug\Final_Project.Presentation_Layer.AdminHomeForm.resources
+C:\Users\LENOVO\source\repos\Final_Project\obj\Debug\Final_Project.Presentation_Layer.Admin.AdminAddBranchForm.resources
+C:\Users\LENOVO\source\repos\Final_Project\obj\Debug\Final_Project.Presentation_Layer.Admin.AdminShowForm.resources
+C:\Users\LENOVO\source\repos\Final_Project\obj\Debug\Final_Project.Presentation_Layer.Admin.AdminViewWorker.resources
+C:\Users\LENOVO\source\repos\Final_Project\obj\Debug\Final_Project.Presentation_Layer.Employee.EmpHomeForm.resources
+C:\Users\LENOVO\source\repos\Final_Project\obj\Debug\Final_Project.Presentation_Layer.Employee.EmpHelpline.resources
+C:\Users\LENOVO\source\repos\Final_Project\obj\Debug\Final_Project.Presentation_Layer.Employee.EmpProfile.resources
+C:\Users\LENOVO\source\repos\Final_Project\obj\Debug\Final_Project.Presentation_Layer.Employee.EmpShowForm.resources
+C:\Users\LENOVO\source\repos\Final_Project\obj\Debug\Final_Project.Presentation_Layer.Login.LoginForm.resources
+C:\Users\LENOVO\source\repos\Final_Project\obj\Debug\Final_Project.Presentation_Layer.Employee.NewOrderForm.resources
+H:\AIUB\Fall 20-21\c#\Final_Project\bin\Debug\Final_Project.exe.config
+H:\AIUB\Fall 20-21\c#\Final_Project\bin\Debug\Final_Project.exe
+H:\AIUB\Fall 20-21\c#\Final_Project\bin\Debug\Final_Project.pdb
+H:\AIUB\Fall 20-21\c#\Final_Project\obj\Debug\Final_Project.csprojAssemblyReference.cache
+H:\AIUB\Fall 20-21\c#\Final_Project\obj\Debug\Final_Project.Presentation_Layer.Admin.AdminAddBranchForm.resources
+H:\AIUB\Fall 20-21\c#\Final_Project\obj\Debug\Final_Project.Presentation_Layer.Admin.AdminAddWorkerForm.resources
+H:\AIUB\Fall 20-21\c#\Final_Project\obj\Debug\Final_Project.Presentation_Layer.AdminHomeForm.resources
+H:\AIUB\Fall 20-21\c#\Final_Project\obj\Debug\Final_Project.Presentation_Layer.Admin.AdminShowForm.resources
+H:\AIUB\Fall 20-21\c#\Final_Project\obj\Debug\Final_Project.Presentation_Layer.Admin.AdminViewWorker.resources
+H:\AIUB\Fall 20-21\c#\Final_Project\obj\Debug\Final_Project.Presentation_Layer.Employee.EmpHelpline.resources
+H:\AIUB\Fall 20-21\c#\Final_Project\obj\Debug\Final_Project.Presentation_Layer.Employee.EmpHomeForm.resources
+H:\AIUB\Fall 20-21\c#\Final_Project\obj\Debug\Final_Project.Presentation_Layer.Employee.EmpProfile.resources
+H:\AIUB\Fall 20-21\c#\Final_Project\obj\Debug\Final_Project.Presentation_Layer.Employee.EmpShowForm.resources
+H:\AIUB\Fall 20-21\c#\Final_Project\obj\Debug\Final_Project.Presentation_Layer.Employee.NewOrderForm.resources
+H:\AIUB\Fall 20-21\c#\Final_Project\obj\Debug\Final_Project.Presentation_Layer.Login.LoginForm.resources
+H:\AIUB\Fall 20-21\c#\Final_Project\obj\Debug\Final_Project.Properties.Resources.resources
+H:\AIUB\Fall 20-21\c#\Final_Project\obj\Debug\Final_Project.csproj.GenerateResource.cache
+H:\AIUB\Fall 20-21\c#\Final_Project\obj\Debug\Final_Project.csproj.CoreCompileInputs.cache
+H:\AIUB\Fall 20-21\c#\Final_Project\obj\Debug\Final_Project.exe
+H:\AIUB\Fall 20-21\c#\Final_Project\obj\Debug\Final_Project.pdb
